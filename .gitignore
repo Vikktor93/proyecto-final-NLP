@@ -1,0 +1,14 @@
+# Ignorar embeddings grandes
+data_embeddings/*
+!data_embeddings/.gitkeep
+
+# Ignorar checkpoints de notebooks
+*.ipynb_checkpoints/
+
+# Archivos Python temporales
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
