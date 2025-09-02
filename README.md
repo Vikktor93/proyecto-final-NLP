@@ -17,7 +17,7 @@ proyecto/
 │
 ├── outputs/ # resultados generados (csv/json/gráficos)
 │
-├── docs/ # documentos (ej. informe final)
+├── docs/ # documentos (Informe Final en PDF)
 │
 ├── environment.yml # especificación de entorno conda
 ├── .gitignore # ficheros excluidos para GitHub
