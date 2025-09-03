@@ -1,0 +1,22 @@
+[
+  {
+    "effect_observed": 0.6719242957805729,
+    "null_mean": -0.0024692069805884063,
+    "null_std": 0.4714608198676436,
+    "p_value_one_sided": 0.0793,
+    "p_value_two_sided": 0.1562,
+    "n_permutations": 10000,
+    "model": "fastText-es (.vec)",
+    "runtime_sec": 69.99
+  },
+  {
+    "effect_observed": 0.4753165760414193,
+    "null_mean": 6.961889300489599e-05,
+    "null_std": 0.4721595458674472,
+    "p_value_one_sided": 0.168,
+    "p_value_two_sided": 0.333,
+    "n_permutations": 10000,
+    "model": "SBW-es (.txt/.vec)",
+    "runtime_sec": 89.19
+  }
+]

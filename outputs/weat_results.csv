@@ -1,0 +1,3 @@
+effect_observed,null_mean,null_std,p_value_one_sided,p_value_two_sided,n_permutations,model,runtime_sec
+0.6719242957805729,-0.0024692069805884063,0.4714608198676436,0.0793,0.1562,10000,fastText-es (.vec),69.99
+0.4753165760414193,6.961889300489599e-05,0.4721595458674472,0.168,0.333,10000,SBW-es (.txt/.vec),89.19
